@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\bin\Debug\net6.0\AcerteONumero.exe
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\bin\Debug\net6.0\AcerteONumero.deps.json
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\bin\Debug\net6.0\AcerteONumero.runtimeconfig.json
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\bin\Debug\net6.0\AcerteONumero.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\bin\Debug\net6.0\AcerteONumero.pdb
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.AssemblyInfo.cs
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\refint\AcerteONumero.dll
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.pdb
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\AcerteONumero.genruntimeconfig.cache
+C:\Users\Erika\Desktop\Cursos\Danki code\Curso C#\projetos\Acerte o numero\AcerteONumero\AcerteONumero\obj\Debug\net6.0\ref\AcerteONumero.dll

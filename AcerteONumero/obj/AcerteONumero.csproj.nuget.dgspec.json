@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erika\\Desktop\\Cursos\\Danki code\\Curso C#\\projetos\\Acerte o numero\\AcerteONumero\\AcerteONumero\\AcerteONumero.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erika\\Desktop\\Cursos\\Danki code\\Curso C#\\projetos\\Acerte o numero\\AcerteONumero\\AcerteONumero\\AcerteONumero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erika\\Desktop\\Cursos\\Danki code\\Curso C#\\projetos\\Acerte o numero\\AcerteONumero\\AcerteONumero\\AcerteONumero.csproj",
+        "projectName": "AcerteONumero",
+        "projectPath": "C:\\Users\\Erika\\Desktop\\Cursos\\Danki code\\Curso C#\\projetos\\Acerte o numero\\AcerteONumero\\AcerteONumero\\AcerteONumero.csproj",
+        "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erika\\Desktop\\Cursos\\Danki code\\Curso C#\\projetos\\Acerte o numero\\AcerteONumero\\AcerteONumero\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
